@@ -1,0 +1,17 @@
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\bin\Debug\Tarea3_Hotel.exe.config
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\bin\Debug\Tarea3_Hotel.exe
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\bin\Debug\Tarea3_Hotel.pdb
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.Principal.resources
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.Properties.Resources.resources
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.Secundario.resources
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.csproj.GenerateResource.cache
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.exe
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.pdb
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\bin\Debug\Hotel.mdf
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\bin\Debug\Hotel_log.ldf
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\bin\Debug\Tarea3_Hotel.exe.manifest
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\bin\Debug\Tarea3_Hotel.application
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.csproj.AssemblyReference.cache
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.exe.manifest
+C:\Users\Rachel\Documents\C#\Tarea3Sem3\Tarea3_Hotel\obj\Debug\Tarea3_Hotel.application
